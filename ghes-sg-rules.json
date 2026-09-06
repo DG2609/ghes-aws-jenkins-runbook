@@ -1,0 +1,9 @@
+[
+  {"IpProtocol":"tcp","FromPort":22,"ToPort":22,"IpRanges":[{"CidrIp":"0.0.0.0/0"}]},
+  {"IpProtocol":"tcp","FromPort":80,"ToPort":80,"IpRanges":[{"CidrIp":"0.0.0.0/0"}]},
+  {"IpProtocol":"tcp","FromPort":443,"ToPort":443,"IpRanges":[{"CidrIp":"0.0.0.0/0"}]},
+  {"IpProtocol":"tcp","FromPort":8443,"ToPort":8443,"IpRanges":[{"CidrIp":"0.0.0.0/0"}]},
+  {"IpProtocol":"tcp","FromPort":122,"ToPort":122,"IpRanges":[{"CidrIp":"0.0.0.0/0"}]},
+  {"IpProtocol":"tcp","FromPort":9418,"ToPort":9418,"IpRanges":[{"CidrIp":"0.0.0.0/0"}]},
+  {"IpProtocol":"tcp","FromPort":25,"ToPort":25,"IpRanges":[{"CidrIp":"0.0.0.0/0"}]}
+]

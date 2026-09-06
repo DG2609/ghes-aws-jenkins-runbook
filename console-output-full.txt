@@ -1,0 +1,2 @@
+
+aws: [ERROR]: 'charmap' codec can't encode characters in position 334-410: character maps to <undefined>

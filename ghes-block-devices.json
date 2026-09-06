@@ -1,0 +1,9 @@
+[
+  {
+    "DeviceName": "/dev/xvdf",
+    "Ebs": {
+      "VolumeSize": 500,
+      "VolumeType": "gp3"
+    }
+  }
+]
